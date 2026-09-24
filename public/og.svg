@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F4EFE4"/>
+  <rect x="0" y="0" width="16" height="630" fill="#8A4B2F"/>
+  <text x="80" y="220" fill="#8A4B2F" font-family="Georgia, serif" font-size="28" letter-spacing="6">AHMED MAJDY ABU SABHA</text>
+  <text x="80" y="340" fill="#2C241C" font-family="Georgia, serif" font-size="72">Web developer,</text>
+  <text x="80" y="430" fill="#2C241C" font-family="Georgia, serif" font-size="72">moving into AI.</text>
+  <text x="80" y="520" fill="#5C5148" font-family="Georgia, serif" font-size="28">Gaza - Islamic University of Gaza - University of the People</text>
+</svg>
